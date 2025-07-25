@@ -15,6 +15,7 @@ public class Pattern12 {
 		count--;
 		}
 		System.out.println();
+		sc.close();
 	}
 	}
 

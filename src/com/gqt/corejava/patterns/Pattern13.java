@@ -16,6 +16,7 @@ public class Pattern13 {
 		count=count+n;
 		}
 		System.out.println();
+		sc.close();
 	}
 	}
 

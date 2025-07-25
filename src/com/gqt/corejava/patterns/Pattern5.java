@@ -11,6 +11,7 @@ public class Pattern5 {
 		for(int i=1;i<=n;i++) {
 		System.out.println(count);
 		count++;
+		sc.close();
 
 	}
 

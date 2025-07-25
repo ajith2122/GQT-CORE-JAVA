@@ -15,6 +15,7 @@ public class Pattern17 {
 		c++;
 		}
 		System.out.println();
+		sc.close();
 	}
 	}
 
