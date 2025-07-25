@@ -2,7 +2,7 @@ package com.gqt.corejava.patterns;
 
 import java.util.Scanner;
 
-public class Project19 {
+public class Pattern19 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
