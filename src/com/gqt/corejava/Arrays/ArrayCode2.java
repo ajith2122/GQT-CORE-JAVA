@@ -1,5 +1,6 @@
 package com.gqt.corejava.Arrays;
 
+//Structured Program:
 import java.util.Scanner;
 
 class ArrayOperations

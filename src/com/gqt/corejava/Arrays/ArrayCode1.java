@@ -1,5 +1,6 @@
 package com.gqt.corejava.Arrays;
 
+//Unstructured Program:
 import java.util.Scanner;
 
 public class ArrayCode1 {
